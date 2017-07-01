@@ -1,1 +1,1 @@
-web: gunicorn linebotrichard:app
+web: gunicorn app.py:app
