@@ -1,1 +1,1 @@
-web: gunicorn linebotrichard:app --log-file=-
+web: gunicorn linebotrichard:app
